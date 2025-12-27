@@ -1,0 +1,12 @@
+TEXT ANALYSIS REPORT
+-------------------
+Total Words: 60
+Total Sentences: 1
+Average Sentence Length: 60.0
+
+Top 5 Frequent Words:
+was : 10
+times : 2
+age : 2
+epoch : 2
+season : 2
